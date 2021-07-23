@@ -10,6 +10,12 @@ public class Ex02 {
 		 \\ : \(역슬러쉬) 표현할때 사용
 		 */
 		
+		// " " : 쌍따옴표로 묶인 값은 문자열로 인식한다.
+		
+		System.out.println("Hello \nJa\nva");
+		System.out.println("1234\t567\t1234567812");
+		System.out.println("tset \"123\" \\456");
+		
 	}
 
 }
